@@ -1,0 +1,11 @@
+README.md
+setup.py
+SmartVideoGrouper.egg-info/PKG-INFO
+SmartVideoGrouper.egg-info/SOURCES.txt
+SmartVideoGrouper.egg-info/dependency_links.txt
+SmartVideoGrouper.egg-info/requires.txt
+SmartVideoGrouper.egg-info/top_level.txt
+src/main.py
+src/main_qt.py
+src/video_organizer.py
+tests/test_file_transfer.py

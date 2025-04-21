@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: SmartVideoGrouper
+Version: 1.0.0
+Summary: Smart Video Grouper Application
+Author: Your Name
+Author-email: your.email@example.com
+Requires-Dist: tkinter
+Requires-Dist: pillow
